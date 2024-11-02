@@ -31,16 +31,17 @@ Plusieurs fichiers Excel sont disponibles à la racine de l'arborescence. Ces fi
 Des outils de visualisation des données sont disponibles sur DataWrapper. Ils sont à jour au 1er novembre 2024. Les données couvrent 2023 et 2024.
 **Programe d'aide sociale**
 - <a href="https://www.datawrapper.de/_/pbobW/" target="_blank">Programme d'aide sociale - Type de ménages https://www.datawrapper.de/_/pbobW/</a>
-- [Programme d'aide sociale - type de contrainte des prestataires](https://www.datawrapper.de/_/xR6Eo/)
-- [Programme d'aide sociale - Prestataires par sexe](https://www.datawrapper.de/_/myFQO/)
-- [Programme d'aide sociale - âge des prestataires](https://www.datawrapper.de/_/RNLXT/)
-- [Programme d'aide sociale - durée cumulative de participation aux programmes d'aide financière de dernier recours](https://www.datawrapper.de/_/uwK4S/)
-- [Programme d'aide sociale - scolarité des prestataires](https://www.datawrapper.de/_/Ll349/)
-- [Programme d'aide sociale - Dernier diplôme obtenu par les prestataires](https://www.datawrapper.de/_/wUHUA/)
-- [Programme d'aide sociale - prestataires par région](https://www.datawrapper.de/_/gVpWB/)
-- [Programme d'aide sociale - carte des prestataires](https://www.datawrapper.de/_/bl9wo/)
-- [Programme d'aide sociale - proportion des demandeurs d'asile](https://www.datawrapper.de/_/d356F/)
-- [Programme d'aide sociale - situation des personnes ayant des contraintes d'âge](https://www.datawrapper.de/_/X7Iaf/)
+- <a href="https://www.datawrapper.de/_/xR6Eo/" target="_blank">Programme d'aide sociale - type de contrainte des prestataires</a>
+- <a href="https://www.datawrapper.de/_/myFQO/" target="_blank">Programme d'aide sociale - Prestataires par sexe</a>
+- <a href="https://www.datawrapper.de/_/RNLXT/" target="_blank">Programme d'aide sociale - âge des prestataires</a>
+- <a href="https://www.datawrapper.de/_/uwK4S/" target="_blank">Programme d'aide sociale - durée cumulative de participation aux programmes d'aide financière de dernier recours</a>
+- <a href="https://www.datawrapper.de/_/Ll349/" target="_blank">Programme d'aide sociale - scolarité des prestataires</a>
+- <a href="https://www.datawrapper.de/_/wUHUA/" target="_blank">Programme d'aide sociale - Dernier diplôme obtenu par les prestataires</a>
+- <a href="https://www.datawrapper.de/_/gVpWB/" target="_blank">Programme d'aide sociale - prestataires par région</a>
+- <a href="https://www.datawrapper.de/_/bl9wo/" target="_blank">Programme d'aide sociale - carte des prestataires</a>
+- <a href="https://www.datawrapper.de/_/d356F/" target="_blank">Programme d'aide sociale - proportion des demandeurs d'asile</a>
+- <a href="https://www.datawrapper.de/_/X7Iaf/" target="_blank">Programme d'aide sociale - situation des personnes ayant des contraintes d'âge</a>
+
 
 **Programme de solidarité sociale**
 - [Programme de solidarité sociale - Type de ménages](https://www.datawrapper.de/_/mR2j2/)
