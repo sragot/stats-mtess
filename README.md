@@ -17,7 +17,7 @@ Dans le passé, certaines données sont devenus indisponibles / ont été mises 
 
 ### Utilisation
 
-**Données brutes **
+**Données brutes**
 Toutes les données historiques sont classées par année. Dans chaque dossier, les fichiers sont disponibles en format PDF (jusqu'en 2023). 
 
 À partir de 2024, les fichiers sont au format CSV et sont regroupés par programme. 
