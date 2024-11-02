@@ -32,7 +32,7 @@ Toutes les données présentées et colligées sont issues du ministère de l'Em
 - Les fichiers PDF sont tirés de l'ancien site du ministère ainsi que [du dépôt institutionel sur le site de Bibliothèques et Archives nationales du Québec](https://numerique.banq.qc.ca/patrimoine/details/52327/35834).
 - Les fichiers CSV sont tirés du site [Partenariat données Québec](https://www.donneesquebec.ca/recherche/organization/travail), le dépôt officiel des jeux de données du gouvernement du Québec
 
-###License
+### License
 
 - Les données publiques du ministère sont disponibles en ligne. Vous devez respecter les règles usuelles en lien avec ces jeux de données.
 - Les **feuilles Excel** représentent une interprétation des données et sont sous license exclusive Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (© Samuel Ragot). Vous êtes libre de les réutiliser, modifier et diffuser, tant qu'il ne s'agit pas d'un usage commercial, que vous attribuez le crédit et que vous utilisez la même license.
