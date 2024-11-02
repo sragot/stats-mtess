@@ -88,6 +88,3 @@ Toutes les données présentées et colligées sont issues du ministère de l'Em
 
 - Les données publiques du ministère sont disponibles en ligne. Vous devez respecter les règles usuelles en lien avec ces jeux de données.
 - Les **feuilles Excel** représentent une interprétation des données et sont sous license exclusive Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (© Samuel Ragot). Vous êtes libre de les réutiliser, modifier et diffuser, tant qu'il ne s'agit pas d'un usage commercial, que vous attribuez le crédit et que vous utilisez la même license.
-
-
-<iframe title="Programme de solidarité sociale - type de diagnostic des prestataires" aria-label="Interactive area chart" id="datawrapper-chart-I7ar8" src="https://datawrapper.dwcdn.net/I7ar8/5/" scrolling="no" frameborder="0" style="border: none;" width="600" height="679" data-external="1"></iframe>
