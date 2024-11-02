@@ -30,7 +30,7 @@ Plusieurs fichiers Excel sont disponibles à la racine de l'arborescence. Ces fi
 
 Des outils de visualisation des données sont disponibles sur DataWrapper. Ils sont à jour au 1er novembre 2024. Les données couvrent 2023 et 2024.
 **Programe d'aide sociale**
-- [Programme d'aide sociale - Type de ménages](https://www.datawrapper.de/_/pbobW/)
+- <a href="https://www.datawrapper.de/_/pbobW/" target="_blank">Programme d'aide sociale - Type de ménages https://www.datawrapper.de/_/pbobW/</a>
 - [Programme d'aide sociale - type de contrainte des prestataires](https://www.datawrapper.de/_/xR6Eo/)
 - [Programme d'aide sociale - Prestataires par sexe](https://www.datawrapper.de/_/myFQO/)
 - [Programme d'aide sociale - âge des prestataires](https://www.datawrapper.de/_/RNLXT/)
