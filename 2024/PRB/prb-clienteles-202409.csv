@@ -1,0 +1,43 @@
+﻿Caracteristique,Valeur,Nb_adultes,Nb_enfants,Nb_prestataires,Prestation_totale_versee
+Situation familiale,Personnes seules,77424,0,77424,116665845.57
+Situation familiale,Couples sans enfants,2939,0,2939,3411899.5596
+Situation familiale,Familles monoparentales,1611,2218,3829,2614753.7799
+Situation familiale,Couples avec enfants,798,1358,2156,1017318.4599
+Situation maritale,Adultes seuls,79035,2218,81253,119280599.35
+Situation maritale,Adultes avec conjoint à l’AFDR,2167,1042,3209,2607268.8097
+Situation maritale,Adultes avec conjoint au PRB,1006,75,1081,1193573.6799
+Situation maritale,Adultes avec conjoint hors Assistance sociale,564,241,805,628375.52992
+Type de résidence,Locataire,26341,1921,28262,38613833.046
+Type de résidence,Locataire HLM ou coopérative,12518,1071,13589,18386734.968
+Type de résidence,Chambreur ou pensionnaire,39040,319,39359,61720778.527
+Type de résidence,Temporairement sans adresse,652,0,652,1020523.9699
+Type de résidence,Propriété,2442,265,2707,3334695.4994
+Type de résidence,En hébergement,1779,0,1779,633251.35993
+Région,01 - Bas-Saint-Laurent,2638,77,2715,3947936.3896
+Région,02 - Saguenay-Lac-Saint-Jean,3265,79,3344,4978918.0196
+Région,03 - Capitale-Nationale,6695,173,6868,10021873.259
+Région,04 - Mauricie,3993,188,4181,6095642.0195
+Région,05 - Estrie,6012,275,6287,8897323.2493
+Région,06 - Montréal,20310,1116,21426,30353289.818
+Région,07 - Outaouais,3931,222,4153,5865757.8495
+Région,08 - Abitibi-Témiscamingue,1465,36,1501,2149441.2098
+Région,09 - Côte-Nord,804,13,817,1190704.5999
+Région,10 - Nord-du-Québec,220,5,225,336224.52998
+Région,11 - Gaspésie-Îles-de-la-Madeleine,1444,49,1493,2157023.6398
+Région,12 - Chaudière-Appalaches,3738,93,3831,5525977.0795
+Région,13 - Laval,3171,162,3333,4797637.4997
+Région,14 - Lanaudière,4680,189,4869,6986753.2494
+Région,15 - Laurentides,5520,200,5720,8274633.4393
+Région,16 - Montérégie,11866,561,12427,17595810.509
+Région,17 - Centre-du-Québec,2911,137,3048,4372557.4496
+Région,Région inconnue,109,1,110,162313.55999
+Clientèle supplémentée,Allocations_aide_emploi,107,15,122,134856.20999
+Clientèle supplémentée,Allocations_soutien,1050,32,1082,1706580.2699
+Clientèle supplémentée,Revenus_travail,0,0,0,0
+Clientèle supplémentée,Prestations_assurance_emploi,26,4,30,16182.929991
+Clientèle supplémentée,Contribution_parentale,0,0,0,0
+Clientèle supplémentée,Pension_alimentaire,0,0,0,0
+Clientèle supplémentée,RRQ_invalidite,7714,301,8015,5806706.3865
+Clientèle supplémentée,RRQ_retraite,11488,171,11659,17032161.725
+Clientèle supplémentée,Revenus_autres,5705,330,6035,7882296.059
+Clientèle supplémentée,Total_distinct,24757,675,25432,31292580.641
